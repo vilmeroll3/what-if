@@ -1,1 +1,234 @@
-
+[
+    {
+        "title": "What if you could swap lives with anyone, but only for a day and they couldn’t remember it?",
+        "description": "Would you choose to live a day in someone else's shoes, knowing they wouldn’t remember your experiences?"
+    },
+    {
+        "title": "What if time travel existed, but only to the future, and you could never return?",
+        "description": "Would you venture into the future with the knowledge that you could never come back to the present?"
+    },
+    {
+        "title": "What if you could instantly speak every language, but only one word at a time?",
+        "description": "How would life change if you could speak any language, but could only communicate one word at a time?"
+    },
+    {
+        "title": "What if you could read minds, but only hear other people's thoughts during their happiest moments?",
+        "description": "How would you handle knowing everyone’s happy thoughts without understanding their struggles?"
+    },
+    {
+        "title": "What if you could turn invisible, but only when you were alone?",
+        "description": "Would you embrace your newfound power, knowing you could only be invisible when no one was around?"
+    },
+    {
+        "title": "What if there were no rules, but everything you did had unintended consequences?",
+        "description": "How would you navigate a world without rules if every action had unpredictable outcomes?"
+    },
+    {
+        "title": "What if you were the last person on Earth, but had the ability to create life?",
+        "description": "Would you attempt to repopulate the Earth with the power to create life from scratch?"
+    },
+    {
+        "title": "What if you could live forever, but only on a deserted island with no one else around?",
+        "description": "Would you want to live forever in solitude, isolated from the world and everyone you know?"
+    },
+    {
+        "title": "What if you could alter your appearance at will, but only once a year?",
+        "description": "How would you use your power to change your appearance if you could only do so once a year?"
+    },
+    {
+        "title": "What if every time you told a lie, a new person was created in the world?",
+        "description": "Would you still lie if it meant creating a new person every time?"
+    },
+    {
+        "title": "What if your reflection in the mirror suddenly started acting independently of you?",
+        "description": "What would you do if your reflection began to act on its own and didn’t follow your movements?"
+    },
+    {
+        "title": "What if you could erase one event from history, but it would change everything else you know?",
+        "description": "Would you erase a historical event if it meant risking everything else you understand about the world?"
+    },
+    {
+        "title": "What if you could bring one historical figure back to life, but they would speak in riddles?",
+        "description": "Would you choose to interact with a historical figure, knowing they could only speak in riddles?"
+    },
+    {
+        "title": "What if you had the ability to stop time, but you couldn’t move while time was frozen?",
+        "description": "How would you use the power to stop time if you were unable to move during the freeze?"
+    },
+    {
+        "title": "What if you could teleport anywhere, but only to places you’ve never been?",
+        "description": "Would you take the chance to teleport to unknown places, knowing you might face the unknown?"
+    },
+    {
+        "title": "What if you could control the weather, but it affected everyone around you unpredictably?",
+        "description": "Would you take control of the weather, knowing it might have unintended consequences on others?"
+    },
+    {
+        "title": "What if every decision you made instantly created a new timeline where your alternate self existed?",
+        "description": "Would you embrace the idea that every choice you make creates a parallel world with a different version of you?"
+    },
+    {
+        "title": "What if you could live in any fictional world, but you could never interact with the main characters?",
+        "description": "Would you enjoy living in a fictional world, knowing you could never interact with its key figures?"
+    },
+    {
+        "title": "What if you could communicate with animals, but they only spoke in metaphors?",
+        "description": "How would you communicate with animals if their language was cryptic and full of metaphors?"
+    },
+    {
+        "title": "What if you could turn anything you touch into gold, but it slowly turned your heart cold?",
+        "description": "Would you use the power to turn things to gold, knowing it might affect your emotional state?"
+    },
+    {
+        "title": "What if you could speak to ghosts, but only the ones who have unfinished business?",
+        "description": "Would you communicate with ghosts if you could only talk to those who need something to resolve?"
+    },
+    {
+        "title": "What if you could see into the future, but only 30 seconds ahead?",
+        "description": "How would you handle seeing glimpses of the future, but only being able to predict the very near future?"
+    },
+    {
+        "title": "What if you could make anything happen with a wish, but each wish erases a memory?",
+        "description": "Would you risk erasing a memory every time you made a wish to change your reality?"
+    },
+    {
+        "title": "What if you could never sleep again, but you didn’t feel tired?",
+        "description": "Would you take advantage of eternal wakefulness, knowing you’d never be able to sleep?"
+    },
+    {
+        "title": "What if you had the power to shape reality, but your creations always had unexpected consequences?",
+        "description": "Would you reshape reality if each change had an unpredictable outcome?"
+    },
+    {
+        "title": "What if you could read the diary of your future self, but you could never act on what you read?",
+        "description": "Would you read your future self’s diary if you knew you couldn’t change the course of events?"
+    },
+    {
+        "title": "What if the world’s oceans disappeared, and everything on Earth had to adjust to life on land?",
+        "description": "How would life on Earth evolve if the oceans suddenly vanished, forcing humanity and nature to adapt?"
+    },
+    {
+        "title": "What if every person you meet could change your destiny, but you could never know how?",
+        "description": "Would you embrace each encounter with the mystery of how they might change your life?"
+    },
+    {
+        "title": "What if your wildest dreams came true, but they were reversed the next day?",
+        "description": "How would you react if your dreams came true, but you couldn’t hold onto them for long?"
+    },
+    {
+        "title": "What if there was no such thing as money, but everyone had what they needed?",
+        "description": "Would society thrive in a world where money didn’t exist, but everyone’s needs were met?"
+    },
+    {
+        "title": "What if your soul could travel to any place, but your body remained in one spot?",
+        "description": "Would you want to explore the world in spirit form, even if your body couldn’t move?"
+    },
+    {
+        "title": "What if you could choose to live in a dream forever, but once you entered, you could never leave?",
+        "description": "Would you choose to live in a perfect dream, knowing that it would be your reality for eternity?"
+    },
+    {
+        "title": "What if you could create one rule for the world, but everyone else could create one rule as well?",
+        "description": "How would you design a world with your own rule while considering the rules of everyone else?"
+    },
+    {
+        "title": "What if you could time travel, but you could only visit your own past?",
+        "description": "Would you revisit your past and relive key moments, knowing you couldn’t change them?"
+    },
+    {
+        "title": "What if you could never remember anything about your life, but everyone around you could?",
+        "description": "How would you navigate life without your own memories, relying on others to recall your past?"
+    },
+    {
+        "title": "What if everyone on Earth could read each other’s thoughts, but only the bad ones?",
+        "description": "How would the world change if everyone could only hear each other’s negative thoughts?"
+    },
+    {
+        "title": "What if you could switch bodies with anyone for a day, but they never knew?",
+        "description": "Would you enjoy living in someone else’s body for a day, knowing they’d never remember it?"
+    },
+    {
+        "title": "What if you had the ability to make people feel whatever emotion you wanted, but only for a short time?",
+        "description": "Would you manipulate emotions for good or personal gain, knowing the effects would be temporary?"
+    },
+    {
+        "title": "What if you could walk through walls, but you never knew what was on the other side?",
+        "description": "Would you embrace the ability to phase through walls, knowing you’d face the unknown each time?"
+    },
+    {
+        "title": "What if you could breathe underwater, but every time you did, you lost one of your senses?",
+        "description": "Would you choose the power to breathe underwater, if it came with the price of losing your senses?"
+    },
+    {
+        "title": "What if you had the power to stop time, but you couldn't remember what happened while time was stopped?",
+        "description": "Would you risk losing memory of your actions in exchange for the power to stop time?"
+    },
+    {
+        "title": "What if you could relive one day of your life, but you had to live it completely differently?",
+        "description": "Would you change the course of a significant day in your life, knowing you could do things differently?"
+    },
+    {
+        "title": "What if you could switch lives with your pet, but they could only live in your body for one hour?",
+        "description": "Would you take the chance to experience life through your pet’s eyes, knowing they’d return to their own form afterward?"
+    },
+    {
+        "title": "What if every human on Earth could read each other’s thoughts, but only the bad ones?",
+        "description": "How would relationships and interactions change if everyone only knew each other’s negative thoughts?"
+    },
+    {
+        "title": "What if you could travel anywhere in the universe, but only once every 10 years?",
+        "description": "Would you venture to explore the universe, knowing the wait for another journey would be long?"
+    },
+    {
+        "title": "What if you had the ability to erase your regrets, but you had to lose something precious in return?",
+        "description": "Would you give up something important to erase your deepest regrets and start fresh?"
+    },
+    {
+        "title": "What if you could live without any fear, but you became completely emotionless?",
+        "description": "Would you trade fear for emotional numbness if it meant you’d never feel afraid again?"
+    },
+    {
+        "title": "What if you could live in a utopia, but it was only real for a month each year?",
+        "description": "Would you look forward to the brief moments of utopia each year, knowing it wouldn’t last?"
+    },
+    {
+        "title": "What if you could go back in time and meet one person from your family history, but you couldn’t speak to them directly?",
+        "description": "Would you want to meet an ancestor and observe them, even if you couldn’t interact with them?"
+    },
+    {
+        "title": "What if you could see every version of yourself in alternate timelines, but you could never choose which life to live?",
+        "description": "Would you want to see the infinite possibilities of your life, knowing you could never pick your path?"
+    },
+    {
+        "title": "What if every person you meet had a deep secret, and you could read it by looking into their eyes?",
+        "description": "Would you be able to handle the truth behind every person’s hidden secrets just by gazing into their eyes?"
+    },
+    {
+        "title": "What if you could travel to any point in time, but you were always a silent observer and couldn’t interact?",
+        "description": "Would you enjoy being a silent witness to history, knowing you couldn’t change a thing?"
+    },
+    {
+        "title": "What if everyone on Earth had the ability to hear music in their minds, but they couldn’t control what song played?",
+        "description": "How would the world change if everyone was constantly hearing random music in their heads?"
+    },
+    {
+        "title": "What if you could reverse any mistake you made, but only once in your lifetime?",
+        "description": "Would you choose to reverse a life-changing mistake, knowing you’d only get one chance?"
+    },
+    {
+        "title": "What if you could never be hurt physically again, but you always felt emotionally vulnerable?",
+        "description": "Would you take the ability to never feel physical pain, knowing you’d be left emotionally exposed?"
+    },
+    {
+        "title": "What if you could control technology with your mind, but everything you control has a hidden cost?",
+        "description": "Would you harness the power to control technology, even if every action came with a hidden price?"
+    },
+    {
+        "title": "What if you could live in a dream world, but you couldn’t bring anyone else with you?",
+        "description": "Would you escape to a dream world if it meant leaving everyone behind in the real world?"
+    },
+    {
+        "title": "What if your future self could send you messages, but only in the form of symbols?",
+        "description": "How would you interpret and act on cryptic messages from your future self?"
+    }
+]
